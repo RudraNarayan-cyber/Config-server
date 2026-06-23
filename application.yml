@@ -1,2 +1,7 @@
 
-hii i am Rudra Narayan Bisoyi, what about you?
+server:
+  port: 9999
+
+spring:
+  application:
+    name: Paku_Magia
