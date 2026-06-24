@@ -1,7 +1,5 @@
 
-server:
-  port: 9999
-
 spring:
   application:
-    name: Paku_Magia
+    name: Rudra
+
